@@ -4,6 +4,15 @@
 Source code of the paper [Meta-learning with an Adaptive Task Scheduler](https://arxiv.org/abs/xxx).
 
 
+If you find this repository useful in your research, please cite the following paper:
+```
+@inproceedings{yao2021adaptive,
+  title={Meta-learning with an Adaptive Task Scheduler},
+  author={Yao, Huaxiu and Wang, Yu and Wei, Ying and Zhao, Peilin and Mahdavi, Mehrdad and Lian, Defu and Finn, Chelsea},
+  booktitle={Proceedings of the Thirty-fifth Conference on Neural Information Processing Systems},
+  year={2021} 
+}
+```
 
 
 ## Miniimagenet
@@ -149,13 +158,4 @@ For ATS, if you need to use ![1](http://latex.codecogs.com/svg.latex?\theta_0) f
 
 
 
-If you find this repository useful in your research, please cite the following paper:
-```
-@inproceedings{yao2021adaptive,
-  title={Meta-learning with an Adaptive Task Scheduler},
-  author={Yao, Huaxiu and Wang, Yu and Wei, Ying and Zhao, Peilin and Mahdavi, Mehrdad and Lian, Defu and Finn, Chelsea},
-  booktitle={Proceedings of the Thirty-fifth Conference on Neural Information Processing Systems},
-  year={2021} 
-}
-```
 
