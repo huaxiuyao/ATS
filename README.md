@@ -1,7 +1,7 @@
 # ATS
 
 ## About
-Source code of the paper [Meta-learning with an Adaptive Task Scheduler](https://arxiv.org/abs/xxx).
+Source code of the paper [Meta-learning with an Adaptive Task Scheduler](https://arxiv.org/pdf/2110.14057.pdf).
 
 
 If you find this repository useful in your research, please cite the following paper:
